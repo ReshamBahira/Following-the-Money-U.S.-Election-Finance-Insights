@@ -1,4 +1,4 @@
-# Following the Money: U.S. Presidential Campaign Finance Analysis (2020-2024)
+# Election Finance Analytics: Donor & Spending Insights (2020-2024)
 
 ## Executive Summary
 
